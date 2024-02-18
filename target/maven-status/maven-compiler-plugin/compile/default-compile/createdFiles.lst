@@ -1,0 +1,8 @@
+com/partyat/restImpl/RegistrationRestImpl.class
+com/partyat/service/RegistrationService.class
+com/partyat/repository/UserRepository.class
+com/partyat/model/Host.class
+com/partyat/model/User.class
+com/partyat/rest/RegistrationRest.class
+com/partyat/serviceImpl/RegistrationServiceImpl.class
+com/partyat/application/PartyAtApplication.class
